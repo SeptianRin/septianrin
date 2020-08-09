@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 -🌱 I’m currently learning anything that amaze me
-- 🔭 I’m currently study @ UNNES
+-🔭 I’m currently study @ UNNES
 
 <!--
 **SeptianRin/septianrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
